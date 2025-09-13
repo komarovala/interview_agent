@@ -1,0 +1,18 @@
+# Скопируйте этот файл в .env и заполните ваши данные
+
+# API ключ от OpenRouter.ai
+# Получить можно на https://openrouter.ai/
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+# Базовый URL (обычно не нужно менять)
+OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+
+# Модель для использования (рекомендуемые)
+# claude-3.5-sonnet - очень качественная модель
+# gpt-4o - быстрая и точная
+# llama-3.1-70b-instruct - хорошая альтернатива
+OPENROUTER_MODEL=claude-3.5-sonnet
+
+# Информация о приложении (для статистики OpenRouter)
+OPENROUTER_APP_NAME=InterviewAgent
+OPENROUTER_APP_URL=https://github.com/your-repo/interview-agent

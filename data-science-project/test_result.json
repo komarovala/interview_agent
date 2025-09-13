@@ -1,0 +1,7 @@
+{
+  "openrouter_works": true,
+  "questions_generated": 1,
+  "summary_works": true,
+  "config_configured": true,
+  "model": "claude-3.5-sonnet"
+}

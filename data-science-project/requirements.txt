@@ -4,3 +4,12 @@ scikit-learn
 matplotlib
 seaborn
 jupyter
+langgraph
+langchain
+langchain-openai
+langchain-community
+openai
+python-dotenv
+requests
+networkx
+ipython
